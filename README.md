@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Campanha: Internet para todos" title="#delicinha" src="https://github.com/raphabarreto/do-while/blob/main/.github/logo.png" width="350px" />
+  <img alt="Campanha: Internet para todos" title="#delicinha" src="https://user-images.githubusercontent.com/48372094/145029168-7d40af22-a105-4779-8e4a-241b67256302.jpg" width="350px" />
   <br/>
 </h1>
 
