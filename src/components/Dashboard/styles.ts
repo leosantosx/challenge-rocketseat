@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Container = styled.main`
     max-width: 1200px;
-    margin: 2rem 5rem;
+    margin: 1rem 5rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     /* gap: 2rem; */
@@ -24,18 +24,19 @@ export const Container = styled.main`
             font-weight: bold;
             font-size: 2rem;
             font-family: 'Roboto', sans-serif;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
         }
 
         p{
-            font-size: 1.5rem;
+            font-size: 1.3rem;
             font-family: sans-serif;
             line-height: 2rem;
             color: #4d4d4d;
+            text-align: justify;
         }
 
         a {
-            margin-top: 20px;
+            margin-top: 2rem;
             list-style-type: none;
             color: white;
             background-color: #1e90ff;
@@ -55,8 +56,10 @@ export const Container = styled.main`
                 background-color: #1e90aa;
             }
         }
+    }
 
-
-
+    footer {
+        color: #4d4d4d;
+        font-family: sans-serif;
     }
 `
