@@ -25,7 +25,7 @@
 
 ## ✨ Demonstração
 
-<p >Acesse <a href="https://do-while.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
+<p >Acesse <a href="https://challenge-rocketseat.vercel.app/">aqui</a> para ver a demonstração do resultado final.</p>
 
 ---
 
@@ -40,11 +40,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta aplicação foi construída para demonstrar o conhecimento que adquiri durante o [Workshop - Otimização de performance em React](https://github.com/patrickporto/workshop-performance-react) e também o [Workshop - Com amor, styled-components](https://github.com/hstrada/workshop-rocketseat-stylert-boilerplate)
-
-A minha motivação de fazer essa aplicação, foi graças aos desafios que o [DoWhile 2020](https://dowhile.rocketseat.com.br/evento/desafios) propôs, fazendo com que eu saísse da minha zona de conforto.
-
-Graças à Rocketseat, mais uma vez, adquiri conhecimento para ir para um próximo nível 🚀
+O objetivo desse projeto é promover conhecimento, informação e até
+diversão para a população. Dessa forma, será possível melhorar a
+comunicação e a educação, além de democratizar o acesso à internet.
+Essa é a verdadeira inclusão digital e social.🚀
 
 ---
 
