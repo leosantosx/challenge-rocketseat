@@ -4,16 +4,16 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/do-while">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leosantosx/challenge-rocketseat">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/do-while">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leosantosx/challenge-rocketseat">
 
   <a href="https://github.com/raphabarreto/do-while/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/raphabarreto/do-while">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leosantosx/challenge-rocketseat">
   </a>
 
   <a href="https://github.com/raphabarreto/do-while/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/do-while">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/leosantosx/challenge-rocketseat">
   </a>
 
   <a href="https://github.com/raphabarreto/do-while/blob/master/LICENSE.md">
